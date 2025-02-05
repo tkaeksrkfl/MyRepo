@@ -1,3 +1,3 @@
 # MyRepo
 Hello, I've just started studying git!
-multiple lines for commit?
+what if I use -m?
