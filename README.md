@@ -1,4 +1,6 @@
 # MyRepo
 Hello, I've just started studying git!
+<<<<<<< HEAD
 This is from test and main 2!!
-SecondBranch, are you joining?
+SecondBranch, are you joining? 
+SecondBranch: Yeah! I'm here
